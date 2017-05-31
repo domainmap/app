@@ -1,2 +1,2 @@
 # app
-Feedback area for [Domain Map](http://www.domain-map.rocks/)
+Domain Map is shutdown for now.
